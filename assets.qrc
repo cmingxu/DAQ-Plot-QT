@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/KY-Logo-3232.ico</file>
+        <file>images/play.png</file>
+        <file>images/settings.png</file>
+        <file>images/stop-button.png</file>
+    </qresource>
+</RCC>
